@@ -76,7 +76,7 @@ td.rotate > div {
   text-align: left;
   // padding-top: 5px;
   // margin: auto 0;
-  height: 0;
+  // height: 0;
 }
 
 tr.top-row td:first-child, tr.top-row td:last-child {
@@ -99,4 +99,28 @@ td.rotate:first-child, td.rotate:last-child{
 .question-title {
   text-align: center;
   font-weight: 700;
+}
+
+#why-title{
+  color: $why;
+}
+
+#who-title{
+  color: $who;
+}
+
+#what-title{
+  color: $what;
+}
+
+#how-title{
+  color: $how;
+}
+
+#when-title{
+  color: $when;
+}
+
+#where-title{
+  color: $where;
 }
