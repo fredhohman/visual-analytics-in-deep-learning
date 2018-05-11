@@ -6,7 +6,7 @@ summary:    See what the different elements looks like. Your markdown has never 
 categories: jekyll pixyll
 ---
 
-[Fred Hohman][fred], [Minsuk Khang][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
+[Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 
 Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems. However, because of the innate complexity and nonlinear structure of deep neural networks, the underlying decision making processes for why these models are achieving such high performance are challenging and sometimes mystifying to interpret. As deep learning spreads across domains, it is of paramount importance that we equip users of deep learning with tools for understanding when a model works correctly, when it fails, and ultimately how to improve its performance. Standardized toolkits for building neural networks have helped democratize deep learning; visual analytics systems have now been developed to support model explanation, interpretation, debugging, and improvement.
 
@@ -51,7 +51,7 @@ We present a survey of the role of visual analytics in deep learning research, n
 
     <td colspan="2" class="question-title"><div>When</div></td>
     <!-- <td><div>asdf</div></td> -->
-    
+
     <td colspan="1" class="question-title"><div>Where</div></td>
 
   </tr>
