@@ -1,0 +1,102 @@
+/*
+  Table styles copied from Bootstrap
+  Copyright (c) 2013 Twitter, Inc
+*/
+
+// table {
+//   // width: 100%;
+//   max-width: 100%;
+//   margin-bottom: 1.5rem;
+//   // font-size: 1.125rem;
+//   font-size: 0.6rem;
+//   // Cells
+//   > thead,
+//   > tbody,
+//   > tfoot {
+//     > tr {
+//       > th,
+//       > td {
+//         padding: 5px;
+//         line-height: 1.2;
+//         vertical-align: top;
+//         border-top: 1px solid #333;
+//       }
+//     }
+//   }
+//   // Bottom align for column headings
+//   > thead > tr > th {
+//     vertical-align: bottom;
+//     border-bottom: 2px solid #333;
+//   }
+//   // Remove top border from thead by default
+//   > caption + thead,
+//   > colgroup + thead,
+//   > thead:first-child {
+//     > tr:first-child {
+//       > th,
+//       > td {
+//         border-top: 0;
+//       }
+//     }
+//   }
+//   // Account for multiple tbody instances
+//   > tbody + tbody {
+//     border-top: 2px solid #333;
+//   }
+// }
+
+
+td.checked {
+  // background-color: $green;
+  text-align: center;
+}
+
+td.checked > span {
+  display: block;
+  width: 10px;
+  height: 10px;
+  background-color: #B0BEC5;
+  border-radius: 3px;
+  margin: 0 auto;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  min-width: 800px;
+  white-space: nowrap;
+  font-size: 0.6rem;
+}
+
+td.rotate > div {
+  transform: 
+    rotate(-90deg);
+  // width: 30px;
+  transform-origin: top left;
+  text-align: left;
+  // padding-top: 5px;
+  // margin: auto 0;
+  height: 0;
+}
+
+tr.top-row td:first-child, tr.top-row td:last-child {
+  width: 100px;
+}
+
+tr.top-row td:nth-child(2) {
+  width: 40px;
+}
+
+td.rotate:first-child, td.rotate:last-child{
+  transform:
+    translate(40px);
+}
+
+.top-row div{
+  margin-bottom: 300px;
+}
+
+.question-title {
+  text-align: center;
+  font-weight: 700;
+}
