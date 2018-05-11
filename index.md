@@ -23,29 +23,37 @@ We present a survey of the role of visual analytics in deep learning research, n
 <table>
 
   <tr class="top-row">
+
     <td><div>&nbsp;</div></td>
     <td><div>&nbsp;</div></td>
+
     <td colspan="4" class="question-title"><div>Why</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
+
     <td colspan="3" class="question-title"><div>Who</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
+
     <td colspan="5" class="question-title"><div>What</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
+
     <td colspan="6" class="question-title"><div>How</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
+
     <td colspan="2" class="question-title"><div>When</div></td>
     <!-- <td><div>asdf</div></td> -->
+    
     <td colspan="1" class="question-title"><div>Where</div></td>
+
   </tr>
 
   <tr>
@@ -82,6 +90,7 @@ We present a survey of the role of visual analytics in deep learning research, n
       {% if paper.after                       == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
 
       <td> {{ paper.venue }} </td>
+
     </tr>
     {% endfor %}
 
