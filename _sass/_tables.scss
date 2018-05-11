@@ -61,11 +61,32 @@ td.checked > span {
 }
 
 table {
+  font-family: Arial, Helvetica, sans-serif;
   table-layout: fixed;
   width: 100%;
   min-width: 800px;
   white-space: nowrap;
   font-size: 0.6rem;
+  // padding: 0;
+  // margin: 0;
+  // border: none;
+  border-collapse: collapse;
+}
+
+td.rotate {
+  border-bottom: #000 1px solid;
+}
+
+td.author {
+  // border-right: #000 1px solid;
+}
+
+td.year {
+  text-align: center;
+}
+
+td.education {
+  border-right: #000 1px solid;
 }
 
 td.rotate > div {
@@ -123,4 +144,16 @@ td.rotate:first-child, td.rotate:last-child{
 
 #where-title{
   color: $where;
+}
+
+tr.bordered {
+    border-bottom: 1px solid #000;
+}
+
+tr:nth-child(even) {
+    background-color: $rowbackground;
+}
+
+tr:nth-child(2){
+  background-color: #ffffff !important;
 }

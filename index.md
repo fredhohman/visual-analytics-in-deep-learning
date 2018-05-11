@@ -56,6 +56,8 @@ We present a survey of the role of visual analytics in deep learning research, n
 
   </tr>
 
+<!-- <tr class="bordered">&nbsp;</tr> -->
+
   <tr>
     {% for field in site.data.fields %}  
       <td class="rotate"><div><span>{{ field.field }}</span></div></td>
@@ -65,8 +67,8 @@ We present a survey of the role of visual analytics in deep learning research, n
     {% for paper in site.data.papers %}
     <tr>
 
-      <td>{{ paper.author }}</td>
-      <td>{{ paper.year }}</td>
+      <td class="author">{{ paper.author }}</td>
+      <td class="year">{{ paper.year }}</td>
 
       {% if paper.interpretability            == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
       {% if paper.debugging                   == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
