@@ -1,68 +1,23 @@
-- field: "author"
-  size: "18%"
-
-- field: "year"
-  size: "4%"
-
-- field: "interpretability & explainability"
-  size: "4%"
-
-- field: "debugging & improving models"
-  size: "4%"
-
-- field: "comparing & selecting models"
-  size: "4%"
-
-- field: "education"
-  size: "4%"
-
-- field: "model developers & builders"
-  size: "4%"
-
-- field: "model users"
-  size: "4%"
-
-- field: "non-experts"
-  size: "4%"
-
-- field: "computational graph & network architecture"
-  size: "4%"
-
-- field: "learned model parameters"
-  size: "4%"
-
-- field: "individual computational units"
-  size: "4%"
-
-- field: "neurons in high-dimensional space"
-  size: "4%"
-
-- field: "aggregated information"
-  size: "4%"
-
-- field: "node-link diagrams for network architecture"
-  size: "4%"
-
-- field: "dimensionality reduction & scatter plots"
-  size: "4%"
-
-- field: "line charts for temporal metrics"
-  size: "4%"
-
-- field: "instance-based analysis & exploration"
-  size: "4%"
-
-- field: "interactive experimentation"
-  size: "4%"
-
-- field: "algorithms for attribution & feature visualization"
-  size: "4%"
-
-- field: "during training"
-  size: "4%"
-
-- field: "after training"
-  size: "4%"
-
-- field: "publication venue"
-  size: "4%"
+- field: "Author"
+- field: "Year"
+- field: "Interpretability & Explainability"
+- field: "Debugging & Improving Models"
+- field: "Comparing & Selecting Models"
+- field: "Education"
+- field: "Model Developers & Builders"
+- field: "Model Users"
+- field: "Non-experts"
+- field: "Computational Graph & Network Architecture"
+- field: "Learned Model pParameters"
+- field: "Individual Computational Units"
+- field: "Neurons in High-dimensional Space"
+- field: "Aggregated Information"
+- field: "Node-link Diagrams for Network Architecture"
+- field: "Dimensionality Reduction & Scatter Plots"
+- field: "Line Charts for Temporal Metrics"
+- field: "Instance-based Analysis & Exploration"
+- field: "Interactive Experimentation"
+- field: "Algorithms for Attribution & Feature Visualization"
+- field: "During Training"
+- field: "After Training"
+- field: "Publication Venue"
