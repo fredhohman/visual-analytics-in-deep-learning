@@ -424,7 +424,7 @@
   venue: VAST
 
 - paper: norton2017adversarial
-  author: Norton, et al.
+  author: Norton & Qi
   year: 2017
   interpretability: x
   debugging: x
@@ -674,7 +674,7 @@
   venue: TVCG
 
 - paper: tzeng2005opening
-  author: Tzeng, et al.
+  author: Tzeng & Ma
   year: 2005
   interpretability: x
   debugging: o
