@@ -8,7 +8,7 @@
 - field: "Model Users"
 - field: "Non-experts"
 - field: "Computational Graph & Network Architecture"
-- field: "Learned Model pParameters"
+- field: "Learned Model Parameters"
 - field: "Individual Computational Units"
 - field: "Neurons in High-dimensional Space"
 - field: "Aggregated Information"
