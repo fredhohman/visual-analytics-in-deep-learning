@@ -78,15 +78,41 @@ td.rotate {
 }
 
 td.author {
-  // border-right: #000 1px solid;
+  text-align: right;
 }
 
 td.year {
   text-align: center;
+  border-right: #000 1px solid;
+  padding-right: 8px;
 }
 
 td.education {
   border-right: #000 1px solid;
+}
+
+td.non-experts {
+  border-right: #000 1px solid;
+}
+
+td.education {
+  border-right: #000 1px solid;
+}
+
+td.aggregated {
+  border-right: #000 1px solid;
+}
+
+td.algorithms {
+  border-right: #000 1px solid;
+}
+
+td.after {
+  border-right: #000 1px solid;
+}
+
+td.venue {
+  padding-left: 8px;
 }
 
 td.rotate > div {
@@ -100,12 +126,17 @@ td.rotate > div {
   // height: 0;
 }
 
-tr.top-row td:first-child, tr.top-row td:last-child {
-  width: 100px;
+tr.top-row td:first-child {
+  width: 135px;
 }
 
+tr.top-row td:last-child {
+  width: 100px; 
+}
+
+
 tr.top-row td:nth-child(2) {
-  width: 40px;
+  width:38px;
 }
 
 td.rotate:first-child, td.rotate:last-child{
@@ -114,7 +145,7 @@ td.rotate:first-child, td.rotate:last-child{
 }
 
 .top-row div{
-  margin-bottom: 300px;
+  margin-bottom: 275px;
 }
 
 .question-title {
