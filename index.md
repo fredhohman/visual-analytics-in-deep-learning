@@ -20,6 +20,10 @@ Deep learning has recently seen rapid development and significant attention due 
 
 We present a survey of the role of visual analytics in deep learning research, noting its short yet impactful history and summarize the state-of-the-art using a human-centered interrogative framework, focusing on the Five W’s and How (Why, Who, What, How, When, and Where), to thoroughly summarize deep learning visual analytics research. We conclude by highlighting research directions and open research problems. This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
 
+<div id="table-caption">
+Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.
+</div>
+
 <table>
 
   <tr class="top-row">

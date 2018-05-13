@@ -124,7 +124,8 @@ td.rotate > div {
   text-align: left;
   // padding-top: 5px;
   // margin: auto 0;
-  // height: 0;
+  height: 0px;
+  padding-left: 8px;
 }
 
 tr.top-row td:first-child {
@@ -152,27 +153,33 @@ td.rotate:first-child, td.rotate:last-child{
 .question-title {
   text-align: center;
   font-weight: 700;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 #why-title{
   color: $why;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
 }
 
 #who-title{
   color: $who;
+  border-right: 1px solid #000;
 }
 
 #what-title{
   color: $what;
+  border-right: 1px solid #000;
 }
 
 #how-title{
   color: $how;
+  border-right: 1px solid #000;
 }
 
 #when-title{
   color: $when;
+  border-right: 1px solid #000;
 }
 
 #where-title{
@@ -189,4 +196,11 @@ tr:nth-child(even) {
 
 tr:nth-child(2){
   background-color: #ffffff !important;
+}
+
+#table-caption {
+  font-size: 0.8rem;
+  color: #aaaaaa;
+  text-align: center;
+  padding-bottom: 20px;
 }
