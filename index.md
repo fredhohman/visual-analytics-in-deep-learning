@@ -64,34 +64,34 @@ We present a survey of the role of visual analytics in deep learning research, n
     {% endfor %}
   </tr>
 
-    {% for paper in site.data.papers %}
+    {% for work in site.data.works %}
     <tr>
 
-      <td class="author">{{ paper.author }}</td>
-      <td class="year">{{ paper.year }}</td>
+      <td class="author">{{ work.author }}</td>
+      <td class="year">{{ work.year }}</td>
 
-      {% if paper.interpretability            == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.debugging                   == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.comparing                   == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.education                   == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.model-developers            == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.model-users                 == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.non-experts                 == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.graph                       == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.learned                     == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.units                       == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.neurons                     == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.aggregated                  == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.node-link                   == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.scatter                     == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.line                        == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.instance-based              == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.interactive-experimentation == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.algorithms                  == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.during                      == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
-      {% if paper.after                       == 'x' %}<td class="checked"><span>&nbsp;</span></td>{% else %}<td></td>{% endif %}
+      {% if work.interpretability            == 'x' %}<td class="checked interpretability"><span>&nbsp;</span></td>{% else %}<td class="interpretability"></td>{% endif %}
+      {% if work.debugging                   == 'x' %}<td class="checked debugging"><span>&nbsp;</span></td>{% else %}<td class="debugging"></td>{% endif %}
+      {% if work.comparing                   == 'x' %}<td class="checked comparing"><span>&nbsp;</span></td>{% else %}<td class="comparing"></td>{% endif %}
+      {% if work.education                   == 'x' %}<td class="checked education"><span>&nbsp;</span></td>{% else %}<td class="education"></td>{% endif %}
+      {% if work.model-developers            == 'x' %}<td class="checked model-developers"><span>&nbsp;</span></td>{% else %}<td class="model-developers"></td>{% endif %}
+      {% if work.model-users                 == 'x' %}<td class="checked model-users"><span>&nbsp;</span></td>{% else %}<td class="model-users"></td>{% endif %}
+      {% if work.non-experts                 == 'x' %}<td class="checked non-experts"><span>&nbsp;</span></td>{% else %}<td class="non-experts"></td>{% endif %}
+      {% if work.graph                       == 'x' %}<td class="checked graph"><span>&nbsp;</span></td>{% else %}<td class="graph"></td>{% endif %}
+      {% if work.learned                     == 'x' %}<td class="checked learned"><span>&nbsp;</span></td>{% else %}<td class="learned"></td>{% endif %}
+      {% if work.units                       == 'x' %}<td class="checked units"><span>&nbsp;</span></td>{% else %}<td class="units"></td>{% endif %}
+      {% if work.neurons                     == 'x' %}<td class="checked neurons"><span>&nbsp;</span></td>{% else %}<td class="neurons"></td>{% endif %}
+      {% if work.aggregated                  == 'x' %}<td class="checked aggregated"><span>&nbsp;</span></td>{% else %}<td class="aggregated"></td>{% endif %}
+      {% if work.node-link                   == 'x' %}<td class="checked node-link"><span>&nbsp;</span></td>{% else %}<td class="node-link"></td>{% endif %}
+      {% if work.scatter                     == 'x' %}<td class="checked scatter"><span>&nbsp;</span></td>{% else %}<td class="scatter"></td>{% endif %}
+      {% if work.line                        == 'x' %}<td class="checked line"><span>&nbsp;</span></td>{% else %}<td class="line"></td>{% endif %}
+      {% if work.instance-based              == 'x' %}<td class="checked instance-based"><span>&nbsp;</span></td>{% else %}<td class="instance-based"></td>{% endif %}
+      {% if work.interactive-experimentation == 'x' %}<td class="checked interactive-experimentation"><span>&nbsp;</span></td>{% else %}<td class="interactive-experimentation"></td>{% endif %}
+      {% if work.algorithms                  == 'x' %}<td class="checked algorithms"><span>&nbsp;</span></td>{% else %}<td class="algorithms"></td>{% endif %}
+      {% if work.during                      == 'x' %}<td class="checked during"><span>&nbsp;</span></td>{% else %}<td class="during"></td>{% endif %}
+      {% if work.after                       == 'x' %}<td class="checked after"><span>&nbsp;</span></td>{% else %}<td class="after"></td>{% endif %}
 
-      <td> {{ paper.venue }} </td>
+      <td class="venue"> {{ work.venue }} </td>
 
     </tr>
     {% endfor %}
@@ -107,14 +107,14 @@ Fred Hohman, Minsuk Kahng, Robert Pienta, Duen Horng Chau.
 
 ## BibTeX
 
-{% highlight markdown %}
+```latex
 @article{hohman2017visual,
   title={Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers},
   author={Hohman, Fred and Kahng, Minsuk and Pienta, Robert and Chau, Duen Horng},
   journal={arXiv preprint arXiv:1801.06889},
   year={2018}
 }
-{% endhighlight %}
+```
 
 <!-- Markdown footnotes are supported, and they look great! Simply put e.g. `[^1]` where you want the footnote to appear,[^1] and then add -->
 <!-- the reference at the end of your markdown. -->
