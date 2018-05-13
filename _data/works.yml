@@ -373,7 +373,16 @@
   after: x
   venue: arXiv
 
-- paper: liu2017analyzing
+@article{liu2017towards,
+  title={Towards better analysis of deep convolutional neural networks},
+  author={Liu, Mengchen and Shi, Jiaxin and Li, Zhen and Li, Chongxuan and Zhu, Jun and Liu, Shixia},
+  journal={IEEE TVCG},
+  volume={23},
+  number={1},
+  year={2017}
+}
+
+- paper: liu2018analyzing
   author: Liu, et al.
   year: 2017
   interpretability: x
@@ -571,7 +580,7 @@
   algorithms: o
   during: o
   after: x
-  venue: SIGSPATIAL
+  venue: GeoHum.
 
 - paper: rong2016visual
   author: Rong, et al.
