@@ -27,32 +27,32 @@ We present a survey of the role of visual analytics in deep learning research, n
     <td><div>&nbsp;</div></td>
     <td><div>&nbsp;</div></td>
 
-    <td colspan="4" class="question-title" id="why-title"><div>Why</div></td>
+    <td colspan="4" class="question-title" id="why-title"><div>WHY</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
 
-    <td colspan="3" class="question-title" id="who-title"><div>Who</div></td>
+    <td colspan="3" class="question-title" id="who-title"><div>WHO</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
 
-    <td colspan="5" class="question-title" id="what-title"><div>What</div></td>
-    <!-- <td><div>asdf</div></td> -->
-    <!-- <td><div>asdf</div></td> -->
-    <!-- <td><div>asdf</div></td> -->
-    <!-- <td><div>asdf</div></td> -->
-
-    <td colspan="6" class="question-title" id="how-title"><div>How</div></td>
-    <!-- <td><div>asdf</div></td> -->
+    <td colspan="5" class="question-title" id="what-title"><div>WHAT</div></td>
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
 
-    <td colspan="2" class="question-title" id="when-title"><div>When</div></td>
+    <td colspan="6" class="question-title" id="how-title"><div>HOW</div></td>
+    <!-- <td><div>asdf</div></td> -->
+    <!-- <td><div>asdf</div></td> -->
+    <!-- <td><div>asdf</div></td> -->
+    <!-- <td><div>asdf</div></td> -->
     <!-- <td><div>asdf</div></td> -->
 
-    <td colspan="1" class="question-title" id="where-title"><div>Where</div></td>
+    <td colspan="2" class="question-title" id="when-title"><div>WHEN</div></td>
+    <!-- <td><div>asdf</div></td> -->
+
+    <td colspan="1" class="question-title" id="where-title"><div>WHERE</div></td>
 
   </tr>
 

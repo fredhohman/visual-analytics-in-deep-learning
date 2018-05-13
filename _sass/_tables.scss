@@ -75,6 +75,7 @@ table {
 
 td.rotate {
   border-bottom: #000 1px solid;
+  // border-right: #000 1px solid;
 }
 
 td.author {
@@ -151,6 +152,7 @@ td.rotate:first-child, td.rotate:last-child{
 .question-title {
   text-align: center;
   font-weight: 700;
+  font-size: 0.9rem;
 }
 
 #why-title{
