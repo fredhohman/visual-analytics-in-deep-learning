@@ -373,14 +373,30 @@
   after: x
   venue: arXiv
 
-@article{liu2017towards,
-  title={Towards better analysis of deep convolutional neural networks},
-  author={Liu, Mengchen and Shi, Jiaxin and Li, Zhen and Li, Chongxuan and Zhu, Jun and Liu, Shixia},
-  journal={IEEE TVCG},
-  volume={23},
-  number={1},
-  year={2017}
-}
+- paper: liu2017towards
+  author: Liu, et al.
+  year: 2017
+  interpretability: x
+  debugging: x
+  comparing: o
+  education: o
+  model-developers: x
+  model-users: o
+  non-experts: o
+  graph: x
+  learned: x
+  units: x
+  neurons: o
+  aggregated: x
+  node-link: x
+  scatter: o
+  line: o
+  instance-based: x
+  interactive-experimentation: o
+  algorithms: o
+  during: o
+  after: x
+  venue: TVCG
 
 - paper: liu2018analyzing
   author: Liu, et al.
