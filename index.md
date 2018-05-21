@@ -9,7 +9,11 @@ categories: jekyll pixyll
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 </span>
 
-Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems. However, because of the innate complexity and nonlinear structure of deep neural networks, the underlying decision making processes for why these models are achieving such high performance are challenging and sometimes mystifying to interpret. As deep learning spreads across domains, it is of paramount importance that we equip users of deep learning with tools for understanding when a model works correctly, when it fails, and ultimately how to improve its performance. Standardized toolkits for building neural networks have helped democratize deep learning; visual analytics systems have now been developed to support model explanation, interpretation, debugging, and improvement.
+Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems.
+However, because of the innate complexity and nonlinear structure of deep neural networks, the underlying decision making processes for why these models are achieving such high performance are challenging and sometimes mystifying to interpret.
+
+As deep learning spreads across domains, it is of paramount importance that we equip users of deep learning with tools for understanding when a model works correctly, when it fails, and ultimately how to improve its performance. 
+Standardized toolkits for building neural networks have helped democratize deep learning; visual analytics systems have now been developed to support model explanation, interpretation, debugging, and improvement.
 
 <figure>
   <em>
@@ -17,11 +21,9 @@ Deep learning has recently seen rapid development and significant attention due 
   </em>
 </figure>
 
-update fig
-
-<!-- _![overview](images/deepvis-6.png)_ -->
-
-We present a survey of the role of visual analytics in deep learning research, noting its short yet impactful history and summarize the state-of-the-art using a human-centered interrogative framework, focusing on the Five W’s and How (Why, Who, What, How, When, and Where), to thoroughly summarize deep learning visual analytics research. We conclude by highlighting research directions and open research problems. This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
+We present a survey of the role of visual analytics in deep learning research, noting its short yet impactful history and summarize the state-of-the-art using a human-centered interrogative framework, focusing on the Five W’s and How (<span class="why">Why</span>, <span class="who">Who</span>, <span class="what">What</span>, <span class="how">How</span>, <span class="when">When</span>, and <span class="where">Where</span>), to thoroughly summarize deep learning visual analytics research.
+We conclude by highlighting research directions and open research problems.
+This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
 
 <div class="table-caption">
 Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.

@@ -107,3 +107,34 @@ h6,
 .names {
   margin: 0;
 }
+
+.why, .who, .what, .how, .when, .where {
+  // font-style: italic;
+  font-weight: 600;
+  font-family: sans-serif;
+  text-transform: uppercase;
+}
+
+.why {
+  color: $why;
+}
+
+.who {
+  color: $who;
+}
+
+.what {
+  color: $what;
+}
+
+.how {
+  color: $how;
+}
+
+.when {
+  color: $when;
+}
+
+.where {
+  color: $where;
+}
