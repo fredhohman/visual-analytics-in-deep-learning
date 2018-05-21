@@ -198,9 +198,25 @@ tr:nth-child(2){
   background-color: #ffffff !important;
 }
 
-#table-caption {
+.table-caption {
   font-size: 0.8rem;
   color: #aaaaaa;
   text-align: center;
   padding-bottom: 20px;
+}
+
+tr.work {
+  height: 20px;
+  font-weight: 500;
+  // transition: height 0.4s, font-weight 0.4s;
+}
+tr.work:hover {
+  height: 40px;
+  font-weight: 600;
+  // transition-delay: 0.1s;
+  // background-color: #FFF8E1;
+
+  td.checked > span {
+    background-color: #444444;
+}
 }
