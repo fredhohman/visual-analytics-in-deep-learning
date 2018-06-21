@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Visual Analytics in Deep Learning
+email:       fredhohman@gatech.edu
+author:      Fred Hohman
+description: "An Interrogative Survey for the Next Frontiers"
 baseurl:     ""
 # url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
@@ -20,7 +20,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
@@ -51,15 +51,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: fredhohman
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: fredhohman
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: fredhohman
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -122,7 +122,7 @@ permalink:    pretty
 # paginate:     4
 sass:
   style: compressed
-plugins: ['jekyll-paginate', 'jekyll-sitemap']
+# plugins: ['jekyll-paginate', 'jekyll-sitemap']
 # https://github.com/jekyll/jekyll/issues/2938
 exclude:
   - Gemfile
