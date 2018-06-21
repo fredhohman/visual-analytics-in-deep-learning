@@ -209,7 +209,9 @@ tr.work {
   height: 20px;
   font-weight: 500;
   // transition: height 0.4s, font-weight 0.4s;
+  border-top: 1px solid rgba(0.5,0.5,0.5,0.0);
 }
+
 tr.work:hover {
   height: 40px;
   font-weight: 600;
