@@ -3,8 +3,9 @@ layout:     post
 title:      Visual Analytics in Deep Learning
 date:       2018-05-01 12:31:19
 summary:    An Interrogative Survey for the Next Frontiers
-categories: jekyll pixyll
+categories: visual-analytics, deep-learning, visualization, survey
 ---
+
 <span class="names">
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 </span>
@@ -15,19 +16,50 @@ However, because of the innate complexity and nonlinear structure of deep neural
 As deep learning spreads across domains, it is of paramount importance that we equip users of deep learning with tools for understanding when a model works correctly, when it fails, and ultimately how to improve its performance. 
 Standardized toolkits for building neural networks have helped democratize deep learning; visual analytics systems have now been developed to support model explanation, interpretation, debugging, and improvement.
 
-<figure>
-  <em>
-  <img src="images/deepvis-6.png" style="border: 1px solid #eeeeee">
-  </em>
-</figure>
+<div id="paper">
+  <a href="https://arxiv.org/abs/1801.06889">
+  <img src="images/paper-pages/paper-page-1.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-2.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-3.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-4.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-5.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-6.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-7.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-8.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-9.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-10.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-11.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-12.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-13.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-14.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-15.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-16.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-17.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-18.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-19.png" class="paper-page">
+  <img src="images/paper-pages/paper-page-20.png" class="paper-page">
+  </a>
+</div>
+<div class="table-caption">
+Read the paper.
+</div>
 
 We present a survey of the role of visual analytics in deep learning research, noting its short yet impactful history and summarize the state-of-the-art using a human-centered interrogative framework, focusing on the Five W’s and How (<span class="why">Why</span>, <span class="who">Who</span>, <span class="what">What</span>, <span class="how">How</span>, <span class="when">When</span>, and <span class="where">Where</span>), to thoroughly summarize deep learning visual analytics research.
 We conclude by highlighting research directions and open research problems.
+
 This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
 
-<div class="table-caption">
+<figure>
+  <!-- <em> -->
+  <img src="images/deepvis.png" style="border: 1px solid #eeeeee">
+  <!-- </em> -->
+</figure>
+
+<!-- <div class="table-caption">
 Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.
-</div>
+</div> -->
+
+Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.
 
 <table>
 
@@ -155,11 +187,11 @@ Overview of representative works in visual analytics for deep learning. Each row
 </blockquote> -->
 
 
----
+<!-- --- -->
 
 [^1]: Important information that may distract from the main text can go in footnotes.
 
-[fred]: www.fredhohman.com "Fred Hohnan."
+[fred]: https://fredhohman.com "Fred Hohnan."
 [minsuk]: http://minsuk.com/ "Minsuk Kahng."
 [robert]: http://spicy.bike/ "Robert Pienta."
 [polo]: https://www.cc.gatech.edu/~dchau/ "Polo Chau."
