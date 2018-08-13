@@ -6,7 +6,7 @@ summary:    An Interrogative Survey for the Next Frontiers
 categories: visual-analytics, deep-learning, visualization, survey
 ---
 
-<span class="names">
+<span class="names squeeze">
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 </span>
 
@@ -57,11 +57,13 @@ We conclude by highlighting research directions and open research problems.
 This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
 </p>
 
-<figure>
+<!-- <figure> -->
+<div id="paper">
   <!-- <em> -->
-  <img src="images/deepvis.png" style="border: 1px solid #eeeeee">
+  <img src="images/deepvis.png">
   <!-- </em> -->
-</figure>
+</div>
+<!-- </figure> -->
 
 <!-- <div class="table-caption">
 Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.
@@ -118,7 +120,7 @@ Overview of representative works in visual analytics for deep learning. Each row
     {% for work in site.data.works %}
     <tr class="work">
 
-      <td class="author">{{ work.author }}</td>
+      <td class="author"><a href="">{{ work.author }}</a></td>
       <td class="year">{{ work.year }}</td>
 
       <!-- why -->
@@ -158,7 +160,7 @@ Overview of representative works in visual analytics for deep learning. Each row
       {% endfor %}
 
       {% for topic in work.where %}
-        <td class="venue"> {{ topic.venue }} </td>
+        <td class="venue">{{ topic.venue }}</td>
       {% endfor %}
     </tr>
     {% endfor %}
@@ -178,7 +180,7 @@ Overview of representative works in visual analytics for deep learning. Each row
 ## BibTeX
 
 ```latex
-@article{hohman2017visual,
+@article{hohman2018visual,
   title={Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers},
   author={Hohman, Fred and Kahng, Minsuk and Pienta, Robert and Chau, Duen Horng},
   journal={IEEE Transactions on Visualization and Computer Graphics},
@@ -201,7 +203,7 @@ Overview of representative works in visual analytics for deep learning. Each row
 
 [^1]: Important information that may distract from the main text can go in footnotes.
 
-[fred]: https://fredhohman.com "Fred Hohnan."
+[fred]: https://fredhohman.com "Fred Hohman."
 [minsuk]: http://minsuk.com/ "Minsuk Kahng."
 [robert]: http://spicy.bike/ "Robert Pienta."
 [polo]: https://www.cc.gatech.edu/~dchau/ "Polo Chau."
