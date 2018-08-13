@@ -35,6 +35,11 @@
     font-size: 3rem;
   }
 
+  .names {
+    font-size: $h4;
+  }
+
+
   h1,
   .h1 {
     font-size: $h1;
@@ -106,6 +111,9 @@
   }
   #page-title {
     font-size: 4rem;
+  }
+  .names {
+    font-size: $h5;
   }
 
 }
