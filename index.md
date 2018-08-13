@@ -10,6 +10,12 @@ categories: visual-analytics, deep-learning, visualization, survey
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 <span>
 
+<p class="fred">asdf
+asdf
+asdf
+asdf
+asdf</p>
+
 <p class="squeeze">
 Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems.
 However, because of the innate complexity and nonlinear structure of deep neural networks, the underlying decision making processes for why these models are achieving such high performance are challenging and sometimes mystifying to interpret.
@@ -38,17 +44,9 @@ We conclude by highlighting research directions and open research problems.
 This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
 </p>
 
-<!-- <figure> -->
 <div class="material">
-  <!-- <em> -->
   <img src="images/deepvis.png">
-  <!-- </em> -->
 </div>
-<!-- </figure> -->
-
-<!-- <div class="table-caption">
-Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.
-</div> -->
 
 <p class="squeeze">
 Overview of representative works in visual analytics for deep learning. Each row is one work; works are sorted alphabetically by first author’s lastname. Each column corresponds to a subsection from the six interrogative questions. A work’s relevant subsection is indicated by a colored cell.

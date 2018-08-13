@@ -3,6 +3,15 @@
     font-size: 16px;
   }
 
+  .fred {
+    color: green !important
+  }
+
+  .squeeze {
+    margin-left: $space-1;
+    margin-right: $space-1;
+  }
+
   h1,
   .h1 {
     font-size: $h1;
@@ -48,12 +57,28 @@
   html {
     font-size: 18px;
   }
+  .fred {
+    color: blue !important
+  }
+  .squeeze {
+    margin-left: $space-1;
+    margin-right: $space-1;
+  }
+
 }
 
 @media screen and (min-width: $viewport-large) {
   html {
     font-size: 20px;
   }
+  .fred {
+    color: red !important
+  }
+  .squeeze {
+    margin-left: $space-5;
+    margin-right: $space-5;
+  }
+
 }
 
 @media screen and (min-width: $viewport-large + 14) {
