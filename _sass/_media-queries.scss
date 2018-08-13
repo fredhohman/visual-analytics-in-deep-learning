@@ -1,5 +1,5 @@
 @media screen and (min-width: $viewport-tiny) {
-  .fred {
+  .test {
     color: yellow !important
   }
 
@@ -9,12 +9,12 @@
   }
 
   #page-title {
-    font-size: 2rem;
+    font-size: 2.8rem;
   }
 
-  // .names {
-    // font-size: $h3;
-  // }
+  .names {
+    font-size: $h4;
+  }
 }
 
 @media screen and (min-width: $viewport-small) {
@@ -22,7 +22,7 @@
     font-size: 16px;
   }
 
-  .fred {
+  .test {
     color: green !important
   }
 
@@ -80,7 +80,7 @@
   html {
     font-size: 18px;
   }
-  .fred {
+  .test {
     color: blue !important
   }
   .squeeze {
@@ -97,7 +97,7 @@
   html {
     font-size: 20px;
   }
-  .fred {
+  .test {
     color: red !important
   }
   .squeeze {

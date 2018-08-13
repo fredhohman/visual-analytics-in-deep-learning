@@ -10,11 +10,7 @@ categories: visual-analytics, deep-learning, visualization, survey
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 <span>
 
-<p class="fred">asdf
-asdf
-asdf
-asdf
-asdf</p>
+<!-- <p class="test">asdf</p> -->
 
 <p class="squeeze">
 Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems.
