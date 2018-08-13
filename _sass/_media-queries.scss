@@ -1,3 +1,22 @@
+@media screen and (min-width: $viewport-tiny) {
+  .fred {
+    color: yellow !important
+  }
+
+  .squeeze {
+    margin-left: $space-1;
+    margin-right: $space-1;
+  }
+
+  #page-title {
+    font-size: 2rem;
+  }
+
+  // .names {
+    // font-size: $h3;
+  // }
+}
+
 @media screen and (min-width: $viewport-small) {
   html {
     font-size: 16px;
@@ -10,6 +29,10 @@
   .squeeze {
     margin-left: $space-1;
     margin-right: $space-1;
+  }
+
+  #page-title {
+    font-size: 2rem;
   }
 
   h1,
@@ -64,6 +87,9 @@
     margin-left: $space-1;
     margin-right: $space-1;
   }
+  #page-title {
+    font-size: 3rem;
+  }
 
 }
 
@@ -77,6 +103,9 @@
   .squeeze {
     margin-left: $space-5;
     margin-right: $space-5;
+  }
+  #page-title {
+    font-size: 4rem;
   }
 
 }
