@@ -95,7 +95,7 @@ Overview of representative works in visual analytics for deep learning. Each row
     {% for work in site.data.works %}
     <tr class="work">
 
-      <td class="author"><a href="">{{ work.author }}</a></td>
+      <td class="author"><a href="{{work.url}}">{{ work.author }}</a></td>
       <td class="year">{{ work.year }}</td>
 
       <!-- why -->

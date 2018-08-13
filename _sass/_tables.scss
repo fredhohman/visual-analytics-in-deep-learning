@@ -32,12 +32,12 @@ td.rotate {
 
 td.author {
   text-align: right;
+  padding-right: 10px;
 }
 
 td.year {
-  text-align: center;
+  text-align: left;
   border-right: #000 1px solid;
-  padding-right: 8px;
 }
 
 td.education {
@@ -81,7 +81,7 @@ td.rotate > div {
 }
 
 tr.top-row td:first-child {
-  width: 135px;
+  width: 150px;
 }
 
 tr.top-row td:last-child {
@@ -90,7 +90,7 @@ tr.top-row td:last-child {
 
 
 tr.top-row td:nth-child(2) {
-  width:38px;
+  width: 38px;
 }
 
 td.rotate:first-child, td.rotate:last-child{

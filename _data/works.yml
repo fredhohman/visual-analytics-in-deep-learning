@@ -1,4 +1,5 @@
 - paper: abadi2016tensorflow
+  url: https://arxiv.org/pdf/1603.04467.pdf
   author: Abadi, et al.
   year: 2016
   why:
@@ -30,6 +31,7 @@
     - venue: arXiv
 
 - paper: bau2017netdissect
+  url: http://netdissect.csail.mit.edu/
   author: Bau, et al.
   year: 2017
   why:
@@ -61,6 +63,7 @@
     - venue: CVPR
 
 - paper: bilal2018convolutional
+  url: https://arxiv.org/abs/1710.06501
   author: Bilal, et al.
   year: 2017
   why:
@@ -92,6 +95,7 @@
     - venue: TVCG
   
 - paper: bojarski2016visualbackprop
+  url: https://cims.nyu.edu/~achoroma/NonFlash/Papers/VisualBackProp.pdf
   author: Bojarski, et al.
   year: 2016
   why:
@@ -123,6 +127,7 @@
     - venue: arXiv
 
 - paper: bruckner2014mloscope
+  url: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-99.html
   author: Bruckner
   year: 2014
   why:
@@ -154,6 +159,7 @@
     - venue: MS Thesis
 
 - paper: carter2016experiments
+  url: https://distill.pub/2016/handwriting/
   author: Carter, et al.
   year: 2016
   why:
@@ -185,6 +191,7 @@
     - venue: Distill
 
 - paper: cashman2017rnnbow
+  url: https://vadl2017.github.io/paper/vadl_0107-paper.pdf
   author: Cashman, et al.
   year: 2017
   why:
@@ -216,6 +223,7 @@
     - venue: VADL
 
 - paper: chae2017visualization
+  url: https://vadl2017.github.io/paper/vadl0101_new.pdf
   author: Chae, et al.
   year: 2017
   why:
@@ -247,6 +255,7 @@
     - venue: VADL
 
 - paper: chung2016revacnn
+  url: http://poloclub.gatech.edu/idea2016/papers/p30-chung.pdf
   author: Chung, et al.
   year: 2016
   why:
@@ -278,6 +287,7 @@
     - venue: FILM
 
 - paper: goyal2016towards
+  url: https://arxiv.org/abs/1608.08974
   author: Goyal, et al.
   year: 2016
   why:
@@ -309,6 +319,7 @@
     - venue: arXiv
 
 - paper: harley2015isvc
+  url: http://scs.ryerson.ca/~aharley/vis/
   author: Harley
   year: 2015
   why:
@@ -340,6 +351,7 @@
     - venue: ISVC
 
 - paper: hohman2017shapeshop
+  url: https://fredhohman.com/papers/shapeshop
   author: Hohman, et al.
   year: 2017
   why:
@@ -371,6 +383,7 @@
     - venue: CHI
 
 - paper: kahng2018activis
+  url: http://minsuk.com/research/activis/
   author: Kahng, et al.
   year: 2018
   why:
@@ -402,6 +415,7 @@
     - venue: TVCG
 
 - paper: karpathy2015visualizing
+  url: https://arxiv.org/abs/1506.02078
   author: Karpathy, et al.
   year: 2015
   why:
@@ -433,6 +447,7 @@
     - venue: arXiv
 
 - paper: li2015visualizing
+  url: https://arxiv.org/abs/1506.01066
   author: Li, et al.
   year: 2015
   why:
@@ -464,6 +479,7 @@
     - venue: arXiv
 
 - paper: liu2017towards
+  url: https://arxiv.org/abs/1604.07043
   author: Liu, et al.
   year: 2017
   why:
@@ -495,6 +511,7 @@
     - venue: TVCG
 
 - paper: liu2018analyzing
+  url: http://vis.cse.ust.hk/papers/dongyu/tist_2018_dongyu_deeptracker.pdf
   author: Liu, et al.
   year: 2018
   why:
@@ -526,6 +543,7 @@
     - venue: TVCG
 
 - paper: ming2017understanding
+  url: https://arxiv.org/abs/1710.10777
   author: Ming, et al.
   year: 2017
   why:
@@ -557,6 +575,7 @@
     - venue: VAST
 
 - paper: norton2017adversarial
+  url: https://arxiv.org/pdf/1708.00807.pdf
   author: Norton & Qi
   year: 2017
   why:
@@ -588,6 +607,7 @@
     - venue: VizSec
 
 - paper: olah2014visualizing
+  url: http://colah.github.io/posts/2014-10-Visualizing-MNIST/
   author: Olah
   year: 2014
   why:
@@ -619,6 +639,7 @@
     - venue: Web
 
 - paper: olah2018the
+  url: https://distill.pub/2018/building-blocks/
   author: Olah, et al.
   year: 2018
   why:
@@ -650,6 +671,7 @@
     - venue: Distill
 
 - paper: pezzotti2017deepeyes
+  url: https://graphics.tudelft.nl/Publications-new/2018/PHVLEV18/paper216.pdf
   author: Pezzotti, et al.
   year: 2017
   why:
@@ -681,6 +703,7 @@
     - venue: TVCG
 
 - paper: rauber2017visualizing
+  url: https://ieeexplore.ieee.org/document/7539329/
   author: Rauber, et al.
   year: 2017
   why:
@@ -712,6 +735,7 @@
     - venue: TVCG
 
 - paper: robinson2017deeppop
+  url: https://deeppop.github.io/
   author: Robinson, et al.
   year: 2017
   why:
@@ -743,6 +767,7 @@
     - venue: GeoHum.
 
 - paper: rong2016visual
+  url: http://www.cond.org/ICML16_NeuralVis.pdf
   author: Rong, et al.
   year: 2016
   why:
@@ -774,6 +799,7 @@
     - venue: ICML VIS
 
 - paper: smilkov2016embedding
+  url: https://arxiv.org/abs/1611.05469
   author: Smilkov, et al.
   year: 2016
   why:
@@ -805,6 +831,7 @@
     - venue: NIPS Workshop
 
 - paper: smilkov2017direct
+  url: https://arxiv.org/abs/1708.03788
   author: Smilkov, et al.
   year: 2017
   why:
@@ -836,6 +863,7 @@
     - venue: ICML VIS
 
 - paper: strobelt2017lstmvis
+  url: http://lstm.seas.harvard.edu/
   author: Strobelt, et al.
   year: 2017
   why:
@@ -867,6 +895,7 @@
     - venue: TVCG
 
 - paper: tzeng2005opening
+  url: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.8117&rep=rep1&type=pdf
   author: Tzeng & Ma
   year: 2005
   why:
@@ -898,6 +927,7 @@
     - venue: VIS
 
 - paper: wang2018ganviz
+  url: https://junpengw.bitbucket.io/image/research/pvis18.pdf
   author: Wang, et al.
   year: 2018
   why:
@@ -929,6 +959,7 @@
     - venue: TVCG
 
 - paper: webster2017teachable
+  url: https://www.blog.google/technology/ai/now-anyone-can-explore-machine-learning-no-coding-required/
   author: Webster, et al.
   year: 2017
   why:
@@ -960,6 +991,7 @@
     - venue: Web
 
 - paper: wongsuphasawat2018visualizing
+  url: http://idl.cs.washington.edu/papers/tfgraph
   author: Wongsuphasawat, et al.
   year: 2018
   why:
@@ -991,6 +1023,7 @@
     - venue: TVCG
 
 - paper: yosinski2015understanding
+  url: http://yosinski.com/deepvis
   author: Yosinski, et al.
   year: 2015
   why:
@@ -1022,6 +1055,7 @@
     - venue: ICML DL
 
 - paper: zahavy2016graying
+  url: http://proceedings.mlr.press/v48/zahavy16.pdf
   author: Zahavy, et al.
   year: 2016
   why:
@@ -1053,6 +1087,7 @@
     - venue: ICML
 
 - paper: zeiler2014visualizing
+  url: https://arxiv.org/abs/1311.2901
   author: Zeiler, et al.
   year: 2014
   why:
@@ -1084,6 +1119,7 @@
     - venue: ECCV
 
 - paper: zeng2017cnncomparator
+  url: https://vadl2017.github.io/paper/vadl_0108-paper.pdf
   author: Zeng, et al.
   year: 2017
   why:
@@ -1115,6 +1151,7 @@
     - venue: VADL
 
 - paper: zhong2017evolutionary
+  url: https://icmlviz.github.io/assets/papers/2.pdf
   author: Zhong, et al.
   year: 2017
   why:
@@ -1146,6 +1183,7 @@
     - venue: ICML VIS
 
 - paper: zhu2016generative
+  url: http://people.csail.mit.edu/junyanz/projects/gvm/
   author: Zhu, et al.
   year: 2016
   why:
