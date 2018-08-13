@@ -8,7 +8,7 @@ categories: visual-analytics, deep-learning, visualization, survey
 
 <span class="names squeeze">
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
-</span>
+<span>
 
 <p class="squeeze">
 Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems.
@@ -20,28 +20,9 @@ As deep learning spreads across domains, it is of paramount importance that we e
 Standardized toolkits for building neural networks have helped democratize deep learning; visual analytics systems have now been developed to support model explanation, interpretation, debugging, and improvement.
 </p>
 
-<div id="paper">
+<div class="material">
   <a href="https://arxiv.org/abs/1801.06889">
-  <img src="images/paper-pages/paper-page-1.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-2.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-3.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-4.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-5.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-6.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-7.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-8.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-9.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-10.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-11.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-12.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-13.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-14.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-15.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-16.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-17.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-18.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-19.png" class="paper-page">
-  <img src="images/paper-pages/paper-page-20.png" class="paper-page">
+  <img src="images/paper.png">
   </a>
 </div>
 <div class="table-caption">
@@ -58,7 +39,7 @@ This survey helps new researchers and practitioners in both visual analytics and
 </p>
 
 <!-- <figure> -->
-<div id="paper">
+<div class="material">
   <!-- <em> -->
   <img src="images/deepvis.png">
   <!-- </em> -->
@@ -167,9 +148,11 @@ Overview of representative works in visual analytics for deep learning. Each row
 
 </table>
 <br>
+
+<!-- <br>
 <div class="table-caption">
   Add a new paper
-</div>
+</div> -->
 
 ## Citation
 

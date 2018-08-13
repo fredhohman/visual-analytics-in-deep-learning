@@ -101,7 +101,7 @@ h6,
 }
 
 #page-title {
-  margin-bottom: 0;
+  margin-bottom: 0.5rem;
   font-size: 4.0rem;
   font-family: 'Playfair Display';
 }
@@ -109,6 +109,8 @@ h6,
 .names {
   margin: 0;
   text-align: center;
+  display: inline-block;
+  font-size: $h5;
 }
 
 .why, .who, .what, .how, .when, .where {

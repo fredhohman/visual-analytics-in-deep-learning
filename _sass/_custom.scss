@@ -2,7 +2,7 @@
   width: 9.4%;
 }
 
-#paper {
+.material {
   padding: 10px;
   // border: 1px solid #cccccc;
   margin-bottom: 30px;
@@ -13,6 +13,6 @@
   cursor: pointer;
 }
 
-#paper:hover {
+.material:hover {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
