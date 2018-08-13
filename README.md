@@ -1,7 +1,7 @@
 # Visual Analytics in Deep Learning
 *An Interrogative Survey for the Next Frontiers*
 
-This is the repository for the website of the TVCG 2018 survey paper on visual aanltyics in deep learning, presented at IEEE VIS 2018. 
+This is the repository for the website of the TVCG 2018 survey paper on visual anltyics in deep learning, presented at IEEE VIS 2018. 
 
 **[Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers][site]**  
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo].  
