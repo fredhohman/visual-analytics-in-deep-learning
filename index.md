@@ -141,15 +141,15 @@ Overview of representative works in visual analytics for deep learning. Each row
     {% endfor %}
 
 </table>
-<br>
 
-<br>
 <div class="table-caption">
+  <br>
+  <a href="https://github.com/fredhohman/visual-analytics-in-deep-learning#add-a-new-work" style="color: #777777"><i class="material-icons" style="font-size: 32px !important;">add_circle_outline</i></a>
+  <br>
   Add a new paper
 </div>
-<hr>
 
-<!-- ## Citation -->
+<hr>
 
 <div style="display:flex; padding-bottom:25px; justify-content: space-between">
 
@@ -204,7 +204,6 @@ Overview of representative works in visual analytics for deep learning. Each row
 *IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
 
 <div style="height:5px"></div>
-<!-- ## BibTeX -->
 
 ```latex
 @article{hohman2018visual,

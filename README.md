@@ -13,7 +13,7 @@ To add a new work to the table:
 
 * Fork this repository.
 * Edit the data file [`_data/works.yml`][works] by appending a new work to the very bottom of the file.
-Follow the following template for adding the new work:
+Use the following work as a template for adding the new work:
 ```yaml
 - paper: kahng2018activis                  # lastname2018keyword
   url: http://minsuk.com/research/activis/ # project or paper link
@@ -49,7 +49,7 @@ Follow the following template for adding the new work:
   where:
     - venue: TVCG                          # abbreviated publication venue
 ```
-* Submit a [pull request][pull].
+* Submit a [pull request][pull] with the newly added work.
 
 ## BibTeX
 

@@ -1,3 +1,5 @@
+# Original works
+
 - paper: abadi2016tensorflow
   url: https://arxiv.org/pdf/1603.04467.pdf
   author: Abadi, et al.
@@ -17,9 +19,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: x
       instance-based: o
       interactive-experimentation: o
@@ -49,9 +51,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -81,9 +83,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -113,9 +115,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -145,9 +147,9 @@
       units: o
       neurons: o
       aggregated: o
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -177,9 +179,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -209,9 +211,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -241,9 +243,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -273,9 +275,9 @@
       units: x
       neurons: x
       aggregated: o
-      node-link: x
   how: 
-    - scatter: x
+    - node-link: x
+      scatter: x
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -305,9 +307,9 @@
       units: o
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -337,9 +339,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -369,9 +371,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -401,9 +403,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: x
   how: 
-    - scatter: x
+    - node-link: x
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -433,9 +435,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -465,9 +467,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -497,9 +499,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -529,9 +531,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -561,9 +563,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -593,9 +595,9 @@
       units: o
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -625,9 +627,9 @@
       units: o
       neurons: x
       aggregated: o
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -657,9 +659,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -689,9 +691,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -721,9 +723,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -753,9 +755,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -785,9 +787,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -817,9 +819,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -849,9 +851,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: x
       instance-based: o
       interactive-experimentation: x
@@ -881,9 +883,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -913,9 +915,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: x
       instance-based: o
       interactive-experimentation: o
@@ -945,9 +947,9 @@
       units: x
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -977,9 +979,9 @@
       units: o
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -1009,9 +1011,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: x
   how: 
-    - scatter: o
+    - node-link: x
+      scatter: o
       line: o
       instance-based: o
       interactive-experimentation: o
@@ -1041,9 +1043,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -1073,9 +1075,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -1105,9 +1107,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: o
       interactive-experimentation: o
@@ -1137,9 +1139,9 @@
       units: x
       neurons: o
       aggregated: o
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: o
@@ -1169,9 +1171,9 @@
       units: x
       neurons: x
       aggregated: x
-      node-link: o
   how: 
-    - scatter: x
+    - node-link: o
+      scatter: x
       line: x
       instance-based: x
       interactive-experimentation: o
@@ -1201,9 +1203,9 @@
       units: o
       neurons: o
       aggregated: x
-      node-link: o
   how: 
-    - scatter: o
+    - node-link: o
+      scatter: o
       line: o
       instance-based: x
       interactive-experimentation: x
@@ -1213,3 +1215,229 @@
       after: x
   where:
     - venue: ECCV
+
+# New works
+
+- paper: kahng2018ganlab
+  url: https://poloclub.github.io/ganlab/
+  author: Kahng, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: o
+      comparing: o
+      education: x
+  who: 
+    - model-developers: o
+      model-users: o
+      non-experts: x
+  what:
+    - graph: x
+      learned: x
+      units: o
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: x
+      scatter: o
+      line: x
+      instance-based: x
+      interactive-experimentation: x
+      algorithms: o
+  when:
+    - during: x
+      after: x
+  where:
+    - venue: TVCG
+
+- paper: kwon2018retainvis
+  url: https://arxiv.org/pdf/1805.10724.pdf
+  author: Kwon, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: x
+      comparing: o
+      education: o
+  who: 
+    - model-developers: x
+      model-users: o
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: x
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: o
+      line: o
+      instance-based: x
+      interactive-experimentation: x
+      algorithms: o
+  when:
+    - during: o
+      after: x
+  where:
+    - venue: TVCG
+
+- paper: liu2018nlize
+  url: http://www.sci.utah.edu/~shusenl/publications/paper_entailVis.pdf
+  author: Liu, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: x
+      comparing: o
+      education: o
+  who: 
+    - model-developers: x
+      model-users: x
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: x
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: o
+      line: o
+      instance-based: x
+      interactive-experimentation: x
+      algorithms: o
+  when:
+    - during: o
+      after: x
+  where:
+    - venue: TVCG
+
+- paper: liu2018analyzing
+  url: http://www.shixialiu.com/publications/aevis/paper.pdf
+  author: Liu, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: o
+      comparing: o
+      education: o
+  who: 
+    - model-developers: x
+      model-users: o
+      non-experts: o
+  what:
+    - graph: x
+      learned: x
+      units: x
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: x
+      scatter: o
+      line: o
+      instance-based: x
+      interactive-experimentation: o
+      algorithms: x
+  when:
+    - during: o
+      after: x
+  where:
+    - venue: VAST
+
+- paper: strobelt2018seq2seq
+  url: http://seq2seq-vis.io/
+  author: Strobelt, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: x
+      comparing: o
+      education: o
+  who: 
+    - model-developers: x
+      model-users: o
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: x
+      neurons: x
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: x
+      line: o
+      instance-based: x
+      interactive-experimentation: x
+      algorithms: x
+  when:
+    - during: o
+      after: x
+  where:
+    - venue: TVCG
+
+- paper: wang2018dqnviz
+  url: https://junpengw.bitbucket.io/image/research/vast18.pdf
+  author: Wang, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: x
+      comparing: o
+      education: o
+  who: 
+    - model-developers: x
+      model-users: o
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: o
+      neurons: x
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: x
+      line: x
+      instance-based: x
+      interactive-experimentation: o
+      algorithms: x
+  when:
+    - during: x
+      after: x
+  where:
+    - venue: TVCG
+
+- paper: zhang2018manifold
+  url: https://arxiv.org/1808.00196
+  author: Zhang, et al.
+  year: 2018
+  why:
+    - interpretability: x
+      debugging: x
+      comparing: x
+      education: o
+  who: 
+    - model-developers: x
+      model-users: x
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: o
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: x
+      line: o
+      instance-based: x
+      interactive-experimentation: o
+      algorithms: x
+  when:
+    - during: o
+      after: x
+  where:
+    - venue: TVCG
