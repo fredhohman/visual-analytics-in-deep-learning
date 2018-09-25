@@ -1,4 +1,4 @@
-Copyright (c) 2014-2015 John Otander
+Copyright (c) 2018 Fred Hohman
 
 MIT License
 
