@@ -12,7 +12,7 @@ This is the repository for the website of the TVCG 2018 survey paper on visual a
 To add a new work to the table:
 
 * Fork this repository.
-* Edit the data file `_data/works.yml` by appending a new work to the very bottom of the file.
+* Edit the data file [`_data/works.yml`][works] by appending a new work to the very bottom of the file.
 Follow the following template for adding the new work:
 ```yaml
 - paper: kahng2018activis                  # lastname2018keyword
@@ -73,4 +73,5 @@ Follow the following template for adding the new work:
 [robert]: http://spicy.bike/ "Robert Pienta."
 [polo]: https://www.cc.gatech.edu/~dchau/ "Polo Chau."
 
+[works]: https://github.com/fredhohman/visual-analytics-in-deep-learning/blob/master/_data/works.yml "Works."
 [pull]: https://github.com/fredhohman/visual-analytics-in-deep-learning/pulls "Make a new pull request."
