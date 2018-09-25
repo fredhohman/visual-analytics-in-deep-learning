@@ -143,18 +143,68 @@ Overview of representative works in visual analytics for deep learning. Each row
 </table>
 <br>
 
-<!-- <br>
+<br>
 <div class="table-caption">
   Add a new paper
-</div> -->
+</div>
+<hr>
 
-## Citation
+<!-- ## Citation -->
+
+<div style="display:flex; padding-bottom:25px; justify-content: space-between">
+
+  <div class="person">
+    <div class="image-cropper">
+      <a href="https://fredhohman.com">
+        <img src="images/fred.jpg" class="rounded" />
+      </a>
+    </div>
+    <a href="https://fredhohman.com">Fred Hohman</a>
+    <span class="person-description small">PhD Student</span>
+    <span class="person-description small">Georgia Tech</span>
+  </div>
+
+  <div class="person">
+    <div class="image-cropper">
+      <a href="https://minsuk.com">
+        <img src="images/kahng.jpg" class="rounded"/>
+      </a>
+    </div>
+    <a href="https://minsuk.com">Minsuk Kahng</a>
+    <span class="person-description small">PhD Student</span>
+    <span class="person-description small">Georgia Tech</span>
+  </div>
+
+  <div class="person">
+    <div class="image-cropper">
+      <a href="http://spicy.bike/">
+        <img src="images/pientars.png" class="rounded"/>
+      </a>
+    </div>
+    <a href="http://spicy.bike/">Robert Pienta</a>
+    <span class="person-description small">Research Scientist</span>
+    <span class="person-description small">Symantec</span>
+  </div>
+
+  <div class="person">
+    <div class="image-cropper">
+      <a href="https://www.cc.gatech.edu/~dchau/">
+        <img src="images/polo.jpg" class="rounded"/>
+      </a>
+    </div>
+    <a href="https://www.cc.gatech.edu/~dchau/">Duen Horng Chau</a>
+    <span class="person-description small">Associate Professor</span>
+    <span class="person-description small">Georgia Tech</span>
+  </div>
+
+</div>
 
 **Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers**  
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo].  
 *IEEE Transactions on Visualization and Computer Graphics (TVCG). 2018.*  
 
-## BibTeX
+<div style="height:5px"></div>
+<!-- ## BibTeX -->
 
 ```latex
 @article{hohman2018visual,
@@ -178,9 +228,9 @@ Overview of representative works in visual analytics for deep learning. Each row
 
 <!-- --- -->
 
-[^1]: Important information that may distract from the main text can go in footnotes.
+<!-- [^1]: Important information that may distract from the main text can go in footnotes. -->
 
 [fred]: https://fredhohman.com "Fred Hohman."
-[minsuk]: http://minsuk.com/ "Minsuk Kahng."
+[minsuk]: https://minsuk.com/ "Minsuk Kahng."
 [robert]: http://spicy.bike/ "Robert Pienta."
 [polo]: https://www.cc.gatech.edu/~dchau/ "Polo Chau."
