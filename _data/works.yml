@@ -1233,8 +1233,8 @@
       non-experts: x
   what:
     - graph: x
-      learned: x
-      units: o
+      learned: o
+      units: x
       neurons: o
       aggregated: x
   how: 
