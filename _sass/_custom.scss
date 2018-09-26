@@ -26,11 +26,19 @@
     margin-bottom: 10px;
 }
 
+.person-wrapper {
+  display:flex;
+  padding-bottom:25px;
+  justify-content: center;
+  flex-flow: row wrap;
+}
+
 .person {
   display: flex;
   flex-direction: column;
   text-align: center;
-  width: 200px;
+  width: 150px;
+  margin-bottom: 10px;
 }
 
 .person a {

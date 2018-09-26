@@ -154,7 +154,7 @@ Overview of representative works in visual analytics for deep learning. Each row
 
 <hr>
 
-<div style="display:flex; padding-bottom:25px; justify-content: space-between">
+<div class="person-wrapper">
 
   <div class="person">
     <div class="image-cropper">
