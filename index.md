@@ -31,10 +31,15 @@ Standardized toolkits for building neural networks have helped democratize deep 
 Read the paper.
 </div>
 
+
 <p class="squeeze">
 We present a survey of the role of visual analytics in deep learning research, noting its short yet impactful history and summarize the state-of-the-art using a human-centered interrogative framework, focusing on the Five W’s and How (<span class="why">Why</span>, <span class="who">Who</span>, <span class="what">What</span>, <span class="how">How</span>, <span class="when">When</span>, and <span class="where">Where</span>), to thoroughly summarize deep learning visual analytics research.
 We conclude by highlighting research directions and open research problems.
 </p>
+
+<div class="video-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TI_sXHt2d8s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 <p class="squeeze">
 This survey helps new researchers and practitioners in both visual analytics and deep learning to quickly learn key aspects of this young and rapidly growing body of research, whose impact spans a diverse range of domains.
