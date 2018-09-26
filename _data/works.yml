@@ -1,7 +1,7 @@
 # Original works
 
 - paper: abadi2016tensorflow
-  url: https://arxiv.org/pdf/1603.04467.pdf
+  url: https://arxiv.org/abs/1603.04467
   author: Abadi, et al.
   year: 2016
   why:
@@ -1411,7 +1411,7 @@
     - venue: TVCG
 
 - paper: zhang2018manifold
-  url: https://arxiv.org/1808.00196
+  url: https://arxiv.org/abs/1808.00196
   author: Zhang, et al.
   year: 2018
   why:
