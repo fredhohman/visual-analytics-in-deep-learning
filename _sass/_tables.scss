@@ -178,5 +178,15 @@ tr.work:hover {
 }
 
 tr:nth-child(40){
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #000000;
+}
+
+.submission-message {
+  padding: 20px;
+  border: $footer-border-top;
+  border-radius: 5px;
+  background-color: $pre-background-color;
+  max-width: 500px;
+  display: block;
+  margin: 0 auto;
 }

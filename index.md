@@ -147,6 +147,9 @@ Overview of representative works in visual analytics for deep learning. Each row
   <a href="https://github.com/fredhohman/visual-analytics-in-deep-learning#add-a-new-work" style="color: #777777"><i class="material-icons" style="font-size: 32px !important;">add_circle_outline</i></a>
   <br>
   Add a new paper
+  <br>
+  <br>
+  <span class="submission-message"><b>Note:</b> Works published after our survey paper's publication date (June 2018) appear below the black horizontal line.</span>
 </div>
 
 <hr>
