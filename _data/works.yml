@@ -97,7 +97,7 @@
     - venue: TVCG
   
 - paper: bojarski2016visualbackprop
-  url: https://cims.nyu.edu/~achoroma/NonFlash/Papers/VisualBackProp.pdf
+  url: https://arxiv.org/abs/1611.05418
   author: Bojarski, et al.
   year: 2016
   why:
