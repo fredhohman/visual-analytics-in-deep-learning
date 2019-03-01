@@ -10,7 +10,10 @@ categories: visual-analytics, deep-learning, visualization, survey
 [Fred Hohman][fred], [Minsuk Kahng][minsuk], [Robert Pienta][robert], [Duen Horng Chau][polo]
 <span>
 
-<!-- <p class="test">asdf</p> -->
+<div class="table-caption">
+  <span class="submission-message">Check out our <a href="https://medium.com/multiple-views-visualization-research-explained/visualization-in-deep-learning-b29f0ec4f136"><b>Medium article</b>  on <b>Multiple Views</b></a> for a summary of the paper and takeaways from our survey!
+  </span>
+</div>
 
 <p class="squeeze">
 Deep learning has recently seen rapid development and significant attention due to its state-of-the-art performance on previously-thought hard problems.
