@@ -1441,3 +1441,35 @@
       after: x
   where:
     - venue: TVCG
+    
+- paper: migdal2019livelossplot
+  url: https://github.com/stared/livelossplot
+  author: Migdał, et al.
+  year: 2019
+  why:
+    - interpretability: o
+      debugging: x
+      comparing: o
+      education: x
+  who: 
+    - model-developers: x
+      model-users: o
+      non-experts: o
+  what:
+    - graph: o
+      learned: o
+      units: o
+      neurons: o
+      aggregated: x
+  how: 
+    - node-link: o
+      scatter: o
+      line: x
+      instance-based: x
+      interactive-experimentation: o
+      algorithms: o
+  when:
+    - during: x
+      after: o
+  where:
+    - venue: GitHub
