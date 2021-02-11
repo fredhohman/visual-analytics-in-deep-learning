@@ -1441,3 +1441,36 @@
       after: x
   where:
     - venue: TVCG
+
+- paper: schultze2021demystify
+  url: https://doi.org/10.1515/icom-2020-0023
+  author: Schultze, et al.
+  year: 2021
+
+  why:
+    - interpretability: x
+      debugging: o
+      comparing: x
+      education: x
+  who: 
+    - model-developers: o
+      model-users: o
+      non-experts: x
+  what:
+    - graph: x
+      learned: o
+      units: o
+      neurons: o
+      aggregated: x
+      node-link: x
+  how: 
+    - scatter: o
+      line: x
+      instance-based: o
+      interactive-experimentation: x
+      algorithms: o
+  when:
+    - during: x
+      after: x
+  where:
+    - venue: i-com                          # abbreviated publication venue
